@@ -7,6 +7,18 @@
 robot tests/
 ```
 
+### Run with Headless Mode (Default - CI/CD)
+```bash
+# This is the default - runs without visual browser window
+robot --variable HEADLESS:True tests/
+```
+
+### Run with Browser Visible (Local Development)
+```bash
+# Open browser window for visual debugging
+robot --variable HEADLESS:False tests/
+```
+
 ### Run Specific Test Suite
 ```bash
 robot tests/login.robot

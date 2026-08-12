@@ -32,8 +32,11 @@ The script will:
 ### Option 2: Manual Commands
 
 ```bash
-# Run all tests
+# Run all tests (headless mode - default)
 robot tests/
+
+# Run with browser visible (for local debugging)
+robot --variable HEADLESS:False tests/
 
 # Run specific test suite
 robot tests/login.robot
