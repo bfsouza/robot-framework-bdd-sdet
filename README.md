@@ -1,6 +1,6 @@
 readme_robot = """# 🤖 Robot Framework + Browser Library (Playwright) BDD Framework
 
-[![Robot Framework CI](https://github.com/YOUR-USERNAME/robot-framework-bdd-sdet/actions/workflows/robot-ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/robot-framework-bdd-sdet/actions)
+[![Robot Framework CI](https://github.com/bfsouza/robot-framework-bdd-sdet/actions/workflows/robot-ci.yml/badge.svg)](https://github.com/bfsouza/robot-framework-bdd-sdet/actions)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-6.x-000000?style=flat&logo=robot-framework)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python)
 ![Playwright](https://img.shields.io/badge/Browser%20Library-Playwright-45BA4B?style=flat&logo=playwright)
